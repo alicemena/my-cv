@@ -51,14 +51,11 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding:100px 20px 40px;
+  padding-top:100px;
 }
 
 .middle-container {
-  padding: 60px 20px;
-  background: linear-gradient(to bottom right, #D0F0F3, #C2F9FB, #E4F9F5);
-  border-top: none;
-  border-bottom: none;
+  margin:100px 0 0
 }
 
 .skill-row,
