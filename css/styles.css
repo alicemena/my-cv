@@ -122,6 +122,11 @@ a:hover {
   margin-right: 30px;
 }
 
+.contact-us-img {
+  float: center;
+  width: 4%;
+}
+
 .mena-profile-img,
 .education-img,
 .repair-img,
