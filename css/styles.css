@@ -118,6 +118,7 @@ a:hover {
 
 .code-img {
   width: 25%;
+  height: 300px;
   float: left;
   margin-right: 30px;
 }
